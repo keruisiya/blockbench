@@ -50,9 +50,3 @@ Go to [micro](src/micro) directory and use `npm install` to install the dependen
 * [Web3.js](https://github.com/ethereum/web3.js/)
 * [zipfian](https://www.npmjs.com/package/zipfian)
 * [bignumber.js](https://www.npmjs.com/package/bignumber.js)
-
-### Blockchain 
-* [geth(ethereum)](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Ubuntu)
-* [geth(parity)](https://github.com/paritytech/parity/wiki/Setup)
-* [geth(quorum)](https://github.com/jpmorganchase/quorum/wiki/Getting-Set-Up)
-* [hyperledger](https://github.com/hyperledger/fabric/tree/v0.6)
